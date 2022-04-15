@@ -74,6 +74,9 @@
 </a>
 <a href="https://instagram.com/coffeedev1" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/Guill_MH" target="_blank">
+<img src=https://hpecout.gitpages.huma-num.fr/R_presentation_SP/figure/gitlab.png alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
 
