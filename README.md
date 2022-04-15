@@ -79,7 +79,7 @@
 <img src=https://img.shields.io/badge/gitlab-%23000000.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:guillbermndz@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
   
 
