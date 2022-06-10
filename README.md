@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/wx2fRBdc/igor-freitas-mesa.gif" align="center" style="width: 90%; height: 450px;" />
+<img src="https://i.ibb.co/S0gftBs/banner.png" align="center" style="width: 90%; height: 450px;" />
 </div>  
   
 
